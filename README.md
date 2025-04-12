@@ -31,4 +31,4 @@ Start-Process -Wait -FilePath "Docker Desktop Installer.exe" -ArgumentList `
 3. Run the script in a PowerShell terminal as Administrator.
 
 ## License:
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
